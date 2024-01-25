@@ -40,7 +40,7 @@ console.log(`Letras a número: ${letras_a_num}`);
 //ejericio5
 //constantes
 console.log("Ejercicio 5")
-const valorMasa=100; //kg
+let valorMasa=100; //kg
 const gravedadTierra=9.8;
 const gravedadLuna=1.625;
 const gravedadMarte=3.721;
