@@ -1,6 +1,6 @@
 //ejercicio 1
 
-let num1=12.0;
+let num1=15.0;
 let num2=10;
 
 console.log("Ejercicio 1")
